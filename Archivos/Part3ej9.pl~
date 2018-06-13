@@ -1,3 +1,0 @@
-principio(L1,L2):-
-    reverse(L1,L3),eliminarcabecera(L3,L4),reverse(L4,L2).
-eliminarcabecera([A|L],L).
