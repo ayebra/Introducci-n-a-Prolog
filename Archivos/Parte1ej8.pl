@@ -1,1 +1,0 @@
-agregaranimal:-opcion(X).
